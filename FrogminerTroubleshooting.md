@@ -19,7 +19,7 @@ Ensure you're on 11.8, then try again
 This is probably a bad sign. Usually this means your TWLNAND is broken. What this means is the part of your console's NAND used to run DS/DSi games is broken. You can confirm its broken by trying to boot a DS game
 
 ## What can I do about a broken TWLNAND
-You can do one of two things, you can either try to do a hardmod to install CFW, or you can do NTRBootHax. Make sure that you either have a DS/DSi or get a preflashed cart, your 3DS is in no state it can flash the cartridge itself!
+You can fix your TWLNand using CFW (this means you have to do either ntrboot or Hardmod) Make sure that if you go the ntrboot route that you either have a DS/DSi or you get a preflashed cartridge, your 3DS is in no state it can flash the cartridge itself!
 
 ## The guide confuses me when it says "keep tapping the left options". Is there a video I can use instead?
 Yes, there actually is a video you can use that was made to demonstrate during Frogminer's open beta. You can find it [here](https://streamable.com/ti9jk)
