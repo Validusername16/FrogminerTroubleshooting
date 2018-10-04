@@ -16,7 +16,7 @@ Make sure you merged the private folder from RELEASE.zip onto your SD card root
 Ensure you're on 11.8, then try again
 
 ## When I go to open download play DS, I get a black screen
-This is probably a bad sign. Usually this means your TWLNAND is broken. What this means is the part of your console's NAND used to run DS/DSi games is broken. You can confirm its broken by trying to boot a DS game
+This is probably a bad sign. Usually this means your TWLNAND is broken. What this means is the part of your console's NAND used to run DS/DSi games was broken by Frogtool. You can confirm its broken by trying to boot a DS game
 
 ## What can I do about a broken TWLNAND
 You can fix your TWLNand using CFW (this means you have to do either ntrboot or Hardmod) Make sure that if you go the ntrboot route that you either have a DS/DSi or you get a preflashed cartridge, your 3DS is in no state it can flash the cartridge itself!
