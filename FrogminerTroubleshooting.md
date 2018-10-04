@@ -4,7 +4,7 @@
 
 
 ## When I try to run Frogtool, I get a red screen and it crashes
-Replace (boot.3dsx)[https://github.com/fincs/new-hbmenu/releases/download/v2.0.0/boot.3dsx] on the root of the SD
+Replace [boot.3dsx](https://github.com/fincs/new-hbmenu/releases/download/v2.0.0/boot.3dsx) on the root of the SD
 
 ## When I go to tap the button in the bottom left after selecting the face, the frog hops away
 Make sure your touch screen is calibrated right (this means you missed the button and drew a dot)
@@ -22,7 +22,7 @@ This is probably a bad sign. Usually this means your TWLNAND is broken. What thi
 You can do one of two things, you can either try to do a hardmod to install CFW, or you can do NTRBootHax. Make sure that you either have a DS/DSi or get a preflashed cart, your 3DS is in no state it can flash the cartridge itself!
 
 ## The guide confuses me when it says "keep tapping the left options". Is there a video I can use instead?
-Yes, there actually is a video you can use that was made to demonstrate during Frogminer's open beta. You can find it (here)[https://streamable.com/ti9jk]
+Yes, there actually is a video you can use that was made to demonstrate during Frogminer's open beta. You can find it [here](https://streamable.com/ti9jk)
 
 ## Any other strange issues?
 Join the Nintendo Homebrew discord or ask some discord with a 3DS assistance channel, and see if you can get help there.
